@@ -9,3 +9,5 @@ Estoy feliz de comprar la gixxer, creo que es una inversión mucho mas confiable
 
 Vamos a descubrir que pasa si me voy para otra branch sin haber hecho un commit xd
 Creo que me mandan el cambio directamente al main.
+
+aprendamos como se ve un rebase XD
